@@ -1,0 +1,23 @@
+Judul:
+
+Anggota Kelompok:
+1. MA'MUN AFANDI IMADUDIN
+2. LAURA ELVINA SAFIRA RAMADANI
+3. AGUS DANIEL SIMORANGKIR
+
+Pembagian Tugas Masing-Masing Anggota Kelompok:
+
+MA'MUN AFANDI IMADUDIN
+-
+-
+-
+
+LAURA ELVINA SAFIRA RAMADANI
+-
+-
+-
+
+AGUS DANIEL SIMORANGKIR
+-
+-
+-
