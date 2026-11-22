@@ -1,3 +1,4 @@
+"SIPENDAKI" 
 SISTEM INFORMASI PENYEWAAN ALAT PENDAKIAN 
 
 Anggota Kelompok:
@@ -21,3 +22,15 @@ AGUS DANIEL SIMORANGKIR
 -
 -
 -
+
+1.1 Deskripsi Masalah
+
+1.2 Decomposition (awal)
+
+1.3 Pattern Recognition 
+
+1.4 Abstraction (Abstraksi)
+
+1.5  Algorithmic Thinking (Berpikir Algoritmik) 
+
+3.2 Rencana Pembagian Tugas Anggota
