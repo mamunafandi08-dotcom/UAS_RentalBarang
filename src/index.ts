@@ -27,3 +27,17 @@ function tampilkanJudul(): void {
   console.log("========================================");
   console.log("Hello console! Aplikasi siap dijalankan.\n");
 } 
+
+// Menampilkan daftar alat satu baris per alat (pakai perulangan for)
+function tampilkanDaftarAlat(): void {
+  console.log("Daftar alat saat ini:");
+  for (let i = 0; i < daftarAlat.length; i++) {
+    const a = daftarAlat[i];
+    if (a === undefined) continue; // pengaman untuk mode TypeScript ketat
+    const status = a.tersedia ? "Tersedia" : "Habis";
+    console.log(
+      (i + 1) + ". " + a.id + " | " + a.nama + " | " + a.kategori +
+      " | Harga/hari: " + a.hargaPerHari + " | Stok: " + a.stok + " | " + status
+    );
+  }
+}
