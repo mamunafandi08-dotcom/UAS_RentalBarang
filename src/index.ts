@@ -19,4 +19,11 @@ const daftarAlat: Alat[] = [
   { id: "KMP-01", nama: "Kompor Portable", kategori: "Masak", hargaPerHari: 10000, stok: 0, tersedia: false },
 ]; 
 
-//p
+// Menampilkan judul aplikasi
+function tampilkanJudul(): void {
+  console.log("========================================");
+  console.log("  SIPENDAKI");
+  console.log("  Sistem Informasi Penyewaan Alat Pendakian");
+  console.log("========================================");
+  console.log("Hello console! Aplikasi siap dijalankan.\n");
+} 
