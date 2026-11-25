@@ -26,3 +26,5 @@ function tampilkanJudul(): void {
   console.log("========================================");
   console.log("Hello console! Aplikasi siap dijalankan.\n");
 } 
+
+console.log('AFFAND PR')
