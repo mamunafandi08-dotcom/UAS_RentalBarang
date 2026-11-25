@@ -26,6 +26,7 @@ function tampilkanJudul(): void {
   console.log("  Sistem Informasi Penyewaan Alat Pendakian");
   console.log("========================================");
   console.log("Hello console! Aplikasi siap dijalankan.\n");
+  console.log("Lora PR")
 } 
 
 // Menampilkan daftar alat satu baris per alat (pakai perulangan for)
