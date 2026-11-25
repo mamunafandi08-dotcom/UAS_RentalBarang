@@ -52,8 +52,10 @@ function tampilkanMenu(): void {
   console.log("5. Cari / filter alat");
   console.log("6. Simulasi sewa");
   console.log("0. Keluar");
+  console.log("Agus pr");
 }
 
 tampilkanJudul();
 tampilkanDaftarAlat();
 tampilkanMenu();
+
