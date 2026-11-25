@@ -18,3 +18,5 @@ const daftarAlat: Alat[] = [
   { id: "SLP-01", nama: "Sleeping Bag", kategori: "Tidur", hargaPerHari: 15000, stok: 10, tersedia: true },
   { id: "KMP-01", nama: "Kompor Portable", kategori: "Masak", hargaPerHari: 10000, stok: 0, tersedia: false },
 ]; 
+
+console.log('AFFAND PR')
