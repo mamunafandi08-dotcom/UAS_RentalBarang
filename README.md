@@ -8,29 +8,26 @@ Anggota Kelompok:
 
 Pembagian Tugas Masing-Masing Anggota Kelompok:
 
-MA'MUN AFANDI IMADUDIN
--
--
--
+MA'MUN AFANDI IMADUDIN (@afaaand_)
+- Penyusunan laporan  
+- Penambahan fitur fungsi data alat 
+- Membuat validasi pada proses input data alat  
+- Penambahan fitur fungsi untuk menghapus data alat 
+- Mengembangkan fungsi pencarian dan penyaringan data alat 
+- Penambahanfitur simulasi proses penyewaan alat 
 
-LAURA ELVINA SAFIRA RAMADANI
--
--
--
+LAURA ELVINA SAFIRA RAMADANI (@lorasaff)
+- Penyusunan laporan 
+- Penambahan fungsi tampilan semua data alat berdasarkan ID 
+- Penyusunan README 
+- Penambahan fitur fungsi untuk menghapus data alat 
+- Mengembangkan fungsi pencarian dan penyaringan data alat 
+- Penambahanfitur simulasi proses penyewaan alat 
 
-AGUS DANIEL SIMORANGKIR
--
--
--
-
-1.1 Deskripsi Masalah
-
-1.2 Decomposition (awal)
-
-1.3 Pattern Recognition 
-
-1.4 Abstraction (Abstraksi)
-
-1.5  Algorithmic Thinking (Berpikir Algoritmik) 
-
-3.2 Rencana Pembagian Tugas Anggota
+AGUS DANIEL SIMORANGKIR (@agusdaniel21)
+- Penyusunan laporan 
+- Penambahan fungsi memperbarui harga dan stok 
+- Membuat validasi terhadap data yang diperbarui  
+- Penambahan fitur fungsi untuk menghapus data alat 
+- Mengembangkan fungsi pencarian dan penyaringan data alat 
+- Penambahanfitur simulasi proses penyewaan alat 
