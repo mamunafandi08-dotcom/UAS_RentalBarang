@@ -40,13 +40,7 @@ function tampilkanDaftarAlat(): void {
       " | Harga/hari: " + a.hargaPerHari + " | Stok: " + a.stok + " | " + status
     );
   }
-}
 
-// Menampilkan rencana menu (fitur akan dibuat di progress berikutnya)
-function tampilkanMenu(): void {
-  console.log("\nMenu yang akan tersedia:");
-  console.log("1. Tambah alat");
-  console.log("2. Lihat daftar alat");
   console.log("3. Ubah harga / stok");
   console.log("4. Hapus alat");
   console.log("5. Cari / filter alat");
@@ -55,8 +49,6 @@ function tampilkanMenu(): void {
   console.log("Agus pr");
 }
 
-
 tampilkanJudul();
-tampilkanDaftarAlat();
-tampilkanMenu();
+tampilkanDaftarAlat(); 
 
