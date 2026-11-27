@@ -8,7 +8,7 @@ Anggota Kelompok:
 
 Pembagian Tugas Masing-Masing Anggota Kelompok:
 
-MA'MUN AFANDI IMADUDIN (@afaaand_)
+MA'MUN AFANDI IMADUDIN (@afaaand_): Create
 - Penyusunan laporan  
 - Penambahan fitur fungsi data alat 
 - Membuat validasi pada proses input data alat  
@@ -16,7 +16,7 @@ MA'MUN AFANDI IMADUDIN (@afaaand_)
 - Mengembangkan fungsi pencarian dan penyaringan data alat 
 - Penambahanfitur simulasi proses penyewaan alat 
 
-LAURA ELVINA SAFIRA RAMADANI (@lorasaff)
+LAURA ELVINA SAFIRA RAMADANI (@lorasaff): Read
 - Penyusunan laporan 
 - Penambahan fungsi tampilan semua data alat berdasarkan ID 
 - Penyusunan README 
@@ -24,10 +24,16 @@ LAURA ELVINA SAFIRA RAMADANI (@lorasaff)
 - Mengembangkan fungsi pencarian dan penyaringan data alat 
 - Penambahanfitur simulasi proses penyewaan alat 
 
-AGUS DANIEL SIMORANGKIR (@agusdaniel21)
+AGUS DANIEL SIMORANGKIR (@agusdaniel21): Update
 - Penyusunan laporan 
 - Penambahan fungsi memperbarui harga dan stok 
 - Membuat validasi terhadap data yang diperbarui  
 - Penambahan fitur fungsi untuk menghapus data alat 
 - Mengembangkan fungsi pencarian dan penyaringan data alat 
 - Penambahanfitur simulasi proses penyewaan alat 
+
+- Link Laporan:
+https://1drv.ms/w/c/129406db45ad865b/IQCeNt_DTj8eTrxex_ngSaT_AdKbzA32OF6msdnfnFokymQ 
+
+- Link Repository:
+https://github.com/mamunafandi08-dotcom/UAS_RentalBarang 
